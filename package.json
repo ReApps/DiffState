@@ -1,0 +1,23 @@
+{
+  "name": "DiffState",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReApps/DiffState.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReApps/DiffState/issues"
+  },
+  "homepage": "https://github.com/ReApps/DiffState#readme",
+  "dependencies": {
+    "redux-logger": "^3.0.6"
+  }
+}
